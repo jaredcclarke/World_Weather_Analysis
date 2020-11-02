@@ -1,0 +1,182 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+0,Kapaa,US,77.0,light rain,22.08,-159.32,Kapaʻa
+2,Suba,PH,83.68,light rain,10.84,121.01,Cuyo
+3,Hithadhoo,MV,82.17,heavy intensity rain,-0.6,73.08,Addu City
+7,Bosaso,SO,76.59,clear sky,11.28,49.18,Bosaso
+8,Namatanai,PG,83.75,broken clouds,-3.67,152.43,Namatanai
+9,Victoria,HK,81.0,overcast clouds,22.29,114.16,Hong Kong
+12,Bengkulu,ID,80.82,overcast clouds,-3.8,102.27,Bengkulu
+15,Atuona,PF,77.86,light rain,-9.8,-139.03,Atuona
+16,Vaini,TO,78.8,broken clouds,-21.2,-175.2,Nukuhetulu
+21,Male,MV,86.0,few clouds,4.17,73.51,Malé
+22,Hobart,AU,77.0,clear sky,-42.88,147.33,Hobart
+28,Sola,VU,87.8,broken clouds,-13.88,167.55,Sola
+31,Port-Gentil,GA,78.91,moderate rain,-0.72,8.78,Port-Gentil
+37,Georgetown,MY,84.2,few clouds,5.41,100.34,George Town
+41,New Norfolk,AU,77.0,overcast clouds,-42.78,147.06,New Norfolk
+59,Hilo,US,82.4,clear sky,19.73,-155.09,Hilo
+62,Alofi,NU,78.8,broken clouds,-19.06,-169.92,Alofi
+65,Rantepao,ID,79.21,light rain,-2.97,119.9,Rante Pao
+66,Cabo San Lucas,MX,79.0,clear sky,22.89,-109.91,Cabo San Lucas
+68,Atar,MR,79.12,overcast clouds,20.52,-13.05,Atar
+70,Teknaf,BD,80.87,heavy intensity rain,20.86,92.31,Teknaf
+77,Naze,JP,80.6,few clouds,28.37,129.48,Amami
+85,San Nicolas,PH,89.6,broken clouds,18.17,120.6,Laoag City
+86,Butaritari,KI,82.11,light rain,3.07,172.79,Isles Sunset Lodge
+89,Faanui,PF,80.15,light rain,-16.48,-151.75,Vaitape
+93,Port Blair,IN,83.53,broken clouds,11.67,92.75,Port Blair
+95,Fayaoue,NC,77.58,moderate rain,-20.65,166.53,Fayaoue
+97,San-Pedro,CI,76.51,scattered clouds,4.75,-6.64,San-Pedro
+98,Puerto Narino,CO,75.2,clear sky,-3.77,-70.38,Puerto Nariño
+100,Esperance,AU,80.6,light rain,-33.87,121.9,Esperance
+102,Cockburn Town,TC,82.2,overcast clouds,21.46,-71.14,Cockburn Town
+103,Pitimbu,BR,78.8,broken clouds,-7.47,-34.81,Pitimbu
+104,Itarema,BR,79.52,scattered clouds,-2.92,-39.92,Itarema
+107,Akyab,MM,79.92,light rain,20.15,92.9,Sittwe
+111,Yanam,IN,82.4,mist,16.73,82.22,Yanam
+116,Dingle,PH,83.52,light rain,11.0,122.67,Pototan
+117,Isangel,VU,86.0,broken clouds,-19.55,169.27,Isangel
+126,Pasir Gudang,MY,89.6,broken clouds,1.46,103.88,Singapore
+140,Kahului,US,84.2,scattered clouds,20.89,-156.47,Kahului
+141,Kayes,ML,76.53,clear sky,14.0,-11.0,
+149,Victoria Point,AU,79.0,scattered clouds,-27.58,153.3,Brisbane
+151,Avarua,CK,78.8,light rain,-21.21,-159.78,Avarua District
+155,Qiongshan,CN,78.8,light rain,20.01,110.35,Haikou
+159,Harper,LR,77.07,light rain,4.38,-7.72,Harper
+161,Kirakira,SB,80.19,light rain,-10.45,161.92,Arohane
+163,Mayumba,GA,76.93,moderate rain,-3.43,10.66,Mayumba
+173,Sokoni,TZ,75.2,few clouds,-6.43,39.55,Makunduchi
+175,Port Pirie,AU,87.8,few clouds,-33.18,138.02,Port Pirie
+176,Haapiti,PF,82.4,few clouds,-17.57,-149.87,Ha'apiti
+182,Sabang,ID,82.08,overcast clouds,5.89,95.32,Sabang
+183,Mangrol,IN,80.26,clear sky,21.12,70.12,Mangrol
+187,Kavieng,PG,86.49,clear sky,-2.57,150.8,Kaewieng
+191,Mana,GF,80.67,overcast clouds,5.66,-53.78,Mana
+195,The Valley,AI,82.4,haze,18.22,-63.06,The Valley
+196,Lahaina,US,84.2,broken clouds,20.88,-156.68,Lahaina
+207,Ugoofaaru,MV,82.63,scattered clouds,5.67,73.0,Ungoofaaru
+217,Sorong,ID,84.54,light rain,-0.88,131.25,Sorong
+221,Gondanglegi,ID,87.26,light rain,-7.75,112.01,Kediri
+224,Cabog,PH,81.91,moderate rain,15.32,121.37,General Tinio
+227,Kailua,US,80.6,broken clouds,21.4,-157.74,Kaneohe
+239,Batticaloa,LK,82.27,few clouds,7.71,81.69,Batticaloa
+240,Gunjur,GM,75.2,clear sky,13.2,-16.73,Gunjur
+245,Touros,BR,80.6,broken clouds,-5.2,-35.46,Touros
+247,Laem Sing,TH,86.0,broken clouds,12.48,102.07,Pak Nam Laem Sing
+250,Lodwar,KE,80.69,overcast clouds,3.12,35.6,Lodwar
+253,Ishigaki,JP,82.4,broken clouds,24.34,124.16,Ishigaki
+256,Jizan,SA,78.8,few clouds,17.33,42.67,بير أبو زيد الهلالي
+264,Matara,LK,83.53,light rain,5.95,80.54,Matara
+265,Airai,TL,80.06,overcast clouds,-8.93,125.41,Atsabe
+270,Port Augusta,AU,86.0,scattered clouds,-32.5,137.77,Port Augusta
+276,Bahia Honda,CU,78.48,light rain,22.9,-83.16,Harlem
+282,Deniliquin,AU,81.52,clear sky,-35.53,144.97,Deniliquin
+284,Hambantota,LK,82.11,moderate rain,6.12,81.12,Hambantota
+286,Tucuman,AR,77.0,clear sky,-26.82,-65.22,San Miguel de Tucumán
+293,Merauke,ID,89.08,scattered clouds,-8.47,140.33,Urum
+298,Sattahip,TH,87.8,few clouds,12.67,100.9,Sattahip
+300,Cayenne,GF,75.2,light rain,4.93,-52.33,Cayenne
+304,Ha Tinh,VN,78.6,light rain,18.33,105.9,Hà Tĩnh
+307,Manokwari,ID,82.26,light rain,-0.87,134.08,Manokwari
+309,Okrika,NG,76.84,overcast clouds,4.74,7.08,Port Harcourt
+314,Padang,ID,85.35,light rain,-0.95,100.35,Padang
+315,Porto Novo,BJ,77.54,scattered clouds,6.5,2.6,Porto-Novo
+325,Nirsa,IN,80.6,mist,23.78,86.72,Nirsa
+328,Denpasar,ID,84.49,light rain,-8.65,115.22,Denpasar
+329,Pokhara,NP,76.55,clear sky,28.23,83.98,Pokhara
+333,Mount Gambier,AU,82.4,scattered clouds,-37.83,140.77,Mount Gambier
+335,Vaitape,PF,81.0,light rain,-16.52,-151.75,Vaitape
+336,Yangjiang,CN,79.0,overcast clouds,21.85,111.97,Yangjiang
+338,Bonoua,CI,80.6,few clouds,5.27,-3.6,Bonoua
+340,Kannur,IN,75.2,mist,11.87,75.36,Kannur
+342,Labuhan,ID,85.44,heavy intensity rain,-6.88,112.21,Musholla Babut Taubat
+347,Port Lincoln,AU,77.79,broken clouds,-34.73,135.87,Port Lincoln
+351,Aquiraz,BR,80.6,few clouds,-3.9,-38.39,Eusébio
+361,Kanniyakumari,IN,81.88,scattered clouds,8.08,77.57,Agasteeswaram
+363,Srivardhan,IN,79.99,overcast clouds,18.03,73.02,Shrivardhan
+368,San Policarpo,PH,85.33,overcast clouds,12.18,125.51,Oras
+369,Victor Harbor,AU,78.01,few clouds,-35.57,138.62,Victor Harbor - Goolwa
+372,Ler,SS,75.87,broken clouds,8.3,30.14,Leer
+376,Gamba,GA,75.9,overcast clouds,-2.65,10.0,Foundou
+381,Veraval,IN,81.1,clear sky,20.9,70.37,Veraval
+386,Paka,MY,86.0,scattered clouds,4.64,103.44,Paka
+387,Kilindoni,TZ,77.81,clear sky,-7.91,39.67,Kilindoni
+392,Champasak,LA,80.6,light rain,14.75,106.0,Thang Beng
+393,Moussoro,TD,79.03,scattered clouds,13.64,16.49,Moussoro
+394,Bathsheba,BB,82.4,scattered clouds,13.22,-59.52,Wilson Hill
+399,Kavaratti,IN,81.68,clear sky,10.57,72.64,Kavaratti
+403,Banjar,ID,89.49,broken clouds,-8.19,114.97,Banjar
+409,Tadine,NC,78.94,broken clouds,-21.55,167.88,Tadine
+413,Kashmor,PK,75.27,clear sky,28.43,69.58,Kashmore
+414,Bonfim,BR,77.77,light rain,3.08,-59.95,Bonfim
+419,Lorengau,PG,86.16,scattered clouds,-2.02,147.27,Lorengau
+420,Lashio,MM,77.54,scattered clouds,22.93,97.75,Lashio
+423,Wagar,SD,75.96,clear sky,16.15,36.2,Wagga
+427,Lazaro Cardenas,MX,79.41,scattered clouds,17.96,-102.2,Lázaro Cárdenas
+435,Adrar,MR,76.28,overcast clouds,20.5,-10.07,
+439,Djibo,BF,78.44,clear sky,14.1,-1.63,Djibo
+441,Ewa Beach,US,82.4,light rain,21.32,-158.01,Kapolei
+444,Marihatag,PH,87.39,overcast clouds,8.79,126.3,Marihatag
+446,Axim,GH,77.41,clear sky,4.87,-2.24,Axim
+449,La Asuncion,VE,78.8,moderate rain,11.03,-63.86,Porlamar
+469,Vung Tau,VN,81.21,overcast clouds,10.35,107.08,Vũng Tàu
+471,Pemangkat,ID,84.47,light rain,1.17,108.97,Pemangkat
+472,Mae Sai,TH,82.99,few clouds,20.43,99.88,Tachileik
+476,Pilar,BR,75.2,clear sky,-9.6,-35.96,Pilar
+479,Oistins,BB,82.4,scattered clouds,13.07,-59.53,Bridgetown
+481,Kalmunai,LK,83.14,broken clouds,7.42,81.82,Kalmunai
+483,Barra,BR,75.27,light rain,-11.09,-43.14,Barra
+485,Srandakan,ID,84.9,light rain,-7.94,110.25,Bantul
+491,Maine-Soroa,NE,75.36,scattered clouds,13.21,12.02,Maïné-Soroa
+492,Chipoka,MW,75.06,clear sky,-13.99,34.52,Chipoka
+511,Pangai,TO,78.8,scattered clouds,-19.8,-174.35,Pangai
+514,Mitsamiouli,KM,76.78,broken clouds,-11.38,43.28,Mitsamiouli
+517,Yilan,TW,82.99,overcast clouds,24.76,121.75,Yilan
+533,Trairi,BR,79.68,broken clouds,-3.28,-39.27,Trairi
+535,Takoradi,GH,77.32,scattered clouds,4.88,-1.76,Takoradi
+541,Martapura,ID,75.49,light rain,-3.42,114.85,Martapura
+542,Sao Filipe,CV,78.08,broken clouds,14.9,-24.5,Sao Filipe
+543,Tutoia,BR,80.44,scattered clouds,-2.76,-42.27,Tutóia
+546,Monywa,MM,78.57,broken clouds,22.12,95.13,Monywa
+547,Thinadhoo,MV,83.35,heavy intensity rain,0.53,72.93,
+551,Rameswaram,IN,82.17,broken clouds,9.28,79.3,Rameswaram
+553,Balikpapan,ID,84.2,few clouds,-1.27,116.83,Balikpapan
+557,Gympie,AU,79.95,few clouds,-26.19,152.66,Gympie
+558,Kudahuvadhoo,MV,82.69,clear sky,2.67,72.89,Kudahuvadhoo
+559,Pyinmana,MM,82.99,clear sky,19.73,96.22,Pyinmana
+563,Santa Cruz,BO,78.8,broken clouds,-17.8,-63.17,Santa Cruz de la Sierra
+564,Ormara,PK,77.16,clear sky,25.21,64.64,Ormara
+569,Maragogi,BR,76.44,scattered clouds,-9.01,-35.22,Maragogi
+572,Honiara,SB,84.2,thunderstorm,-9.43,159.95,Honiara
+575,Altamira,BR,79.47,scattered clouds,-3.2,-52.21,Altamira
+577,Cam Ranh,VN,87.8,scattered clouds,11.92,109.16,Cam Ranh
+581,Hervey Bay,AU,80.01,clear sky,-25.3,152.85,Hervey Bay
+587,Porto Walter,BR,76.14,overcast clouds,-8.27,-72.74,Porto Walter
+589,Yeppoon,AU,89.6,broken clouds,-23.13,150.73,Yeppoon
+591,Broken Hill,AU,82.4,few clouds,-31.95,141.43,Broken Hill
+598,Dubreka,GN,77.11,few clouds,9.79,-13.52,Conakry
+600,Loa Janan,ID,77.45,heavy intensity rain,-0.58,117.09,Samarinda
+603,Luanda,AO,77.0,broken clouds,-8.84,13.23,Luanda
+604,Hirara,JP,82.4,broken clouds,24.8,125.28,Hirara
+606,Umm Kaddadah,SD,77.76,scattered clouds,13.6,26.69,Umm Kadadda
+607,Langsa,ID,85.98,light rain,4.47,97.97,Langsa
+608,Quang Ngai,VN,79.52,light rain,15.12,108.8,Quảng Ngãi
+611,Auki,SB,85.51,moderate rain,-8.77,160.7,Auki
+612,Cartagena,CO,77.0,light intensity drizzle,10.4,-75.51,Cartagena
+616,Amahai,ID,85.08,light rain,-3.33,128.92,Amahai
+617,San Rafael Del Sur,NI,78.8,scattered clouds,11.85,-86.44,San Rafael del Sur
+620,Karratha,AU,82.2,scattered clouds,-20.74,116.85,Karratha
+621,Bandarbeyla,SO,76.84,clear sky,9.49,50.81,Bandarbeyla
+623,Karaton,ID,88.0,light rain,-6.34,106.1,Pandeglang
+624,Kieta,PG,86.45,clear sky,-6.22,155.63,Kieta
+625,Sokolo,ML,77.67,scattered clouds,14.73,-6.12,Sokolo
+626,Tabanan,ID,85.71,light rain,-8.54,115.13,Tabanan
+635,Anloga,GH,79.63,broken clouds,5.79,0.9,Anloga
+636,Qui Nhon,VN,78.8,light rain,13.77,109.23,Qui Nhơn
+638,Bontang,ID,82.13,moderate rain,0.13,117.5,Bontang
+646,Katwa,IN,83.28,scattered clouds,23.64,88.13,Katwa
+656,Tabou,CI,76.98,light rain,4.42,-7.35,Tabou
+658,Hobyo,SO,79.34,light rain,5.35,48.53,Hobyo
+667,Meulaboh,ID,83.75,light rain,4.14,96.13,Meulaboh
+671,Galesong,ID,87.26,light rain,-5.32,119.37,Kampung Parang
+675,Culebra,PR,80.6,overcast clouds,18.3,-65.3,Culebra
